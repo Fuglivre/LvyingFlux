@@ -1,0 +1,48 @@
+@charset "UTF-8";
+/* CSS Document */
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+.navbar-default .navbar-brand {
+  color: #000000;
+  font-weight: bold;
+  font-size: 26px;
+}
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #000000;
+  background-color: transparent;
+}
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #000;
+	font-size: 18px;
+}
+.dropdown-toggle {
+  color: #000000;
+}
+.btn-flux,
+.btn-flux:hover,
+.btn-flux:focus {
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000;
+  border-width: 2px;
+  border-radius: 0;
+}
+.jumbotron {
+  color: #000000;
+}
+.jumbotron h1,
+.jumbotron .h1 {
+  color: #000000;
+}
+.nav .navbar{
+  color: #000000;
+}
+.bgimg {
+    background-image: url('../images/saint-valentin.jpg');
+	height: auto;
+}

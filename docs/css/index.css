@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+.label-flux{
+	font-size: 18px;
+	color: #000000;
+	font-weight:300
+}
+li {
+	list-style-type: none;
+}
+.title-small{
+	font-size: 25px;
+}
+.title-large{
+	font-size: 36px;
+}
+a:link, a:hover,a:visited  {
+	text-decoration: none; 
+	color:black;
+}
+a:active {
+	text-decoration:blink; 
+	color: black;
+}
+.menu-flux-button {
+  font-size: 25px;
+}
+.bgimg {
+    background-image: url('../images/saint-valentin.jpg');
+	height: auto;
+	margin: 10px;
+}
+.btn-flux,
+.btn-flux:hover,
+.btn-flux:focus
+.btn-flux:checked{
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000;
+  border-width: 1px;
+  border-radius: 0;
+  font-weight:300;
+}
+.poemes{
+	margin: 30px 10px 10px 10px;
+}
+
+.poemes p{
+	font-weight:300;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.item {
+height: 500px;
+}
+
+.item img {
+max-height: 100%;  
+max-width: 100%; 
+position: relative;  
+top: 0;  
+bottom: 0;  
+left: 0;  
+right: 0;  
+margin: auto;
+}
+
+.marginer{
+	margin: 30px 10px 10px 10px;
+}
+
+.poemes-titre{
+	font-weight: bold;
+}
